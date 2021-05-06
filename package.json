@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "aedes": "^0.40.1",
+    "aedes": "^0.42.1",
     "aedes-persistence-redis": "^7.0.0",
     "dotenv": "^8.2.0",
     "mqemitter-redis": "^4.0.1"
